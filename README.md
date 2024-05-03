@@ -42,8 +42,7 @@
 <details>
 <summary>What are you doing? </strong></summary>
 I am working with AI to redesign the optimal architecture and framework for system development with AI.<br/>
-<br/>
-Favorite language: Python<br/>
-Editor: CopilotWorkspace/Cursor<br/>
-Favorite service: GitHub/Stripe<br/>
+🦄 Favorite language: Python<br/>
+🦄 Editor: CopilotWorkspace/Cursor<br/>
+🦄 Favorite service: GitHub/Stripe<br/>
 </details>
