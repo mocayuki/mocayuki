@@ -37,3 +37,14 @@
 ░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░
 ........................... Moca Yuki .............................
 ```
+
+
+<details>
+<summary>What are you doing? </strong></summary>
+I am working with AI to redesign the optimal architecture and framework for system development with AI.
+
+Favorite language: Python
+Editor: CopilotWorkspace/Cursor
+Favorite service: GitHub/Stripe
+
+</details>
