@@ -39,11 +39,9 @@
 ```
 
 
-<details>
-<summary><strong>What are you doing? 🦄 </strong></summary>
+<strong>What are you doing? 🦄 </strong><br />
+I am working with AI to redesign the optimal architecture and framework for system development with AI.<br />
 
-- I am working with AI to redesign the optimal architecture and framework for system development with AI.
 - Favorite language: Python
 - Editor: CopilotWorkspace/Cursor
 - Favorite service: GitHub/Stripe
-</details>
